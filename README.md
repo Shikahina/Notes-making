@@ -7,7 +7,7 @@ This helps microservices to register to a Discovery server(eureka-server) which 
 
 ## Setup 
 
-1. After cloning ,navigate to the root project directory (it's where you can find pom.xml).\
+1. After cloning, navigate to the root project directory (it's where you can find pom.xml).
 2. Run `mvn clean install`
 
 ## How to run
